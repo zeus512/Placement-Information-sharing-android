@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.darkbyte.nithtpo">
+
+    <meta-data
+        android:name="com.onesignal.NotificationOpened.DEFAULT"
+        android:value="DISABLE" />
+    <meta-data
+        android:name="com.google.android.gms.version"
+        android:value="@integer/google_play_services_version" />
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+
+    <application
+        android:name=".MyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/gg"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/test">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".LoginAndRegister.Login_Register_Sel"
+            android:label="PRIME" />
+        <activity
+            android:name=".LoginAndRegister.Login"
+            android:parentActivityName=".LoginAndRegister.Login_Register_Sel"
+            android:theme="@style/test" />
+        <activity
+
+            android:name=".student.Main2Activity"
+            android:parentActivityName=".student.HomeActivity" />
+        <activity
+            android:name=".LoginAndRegister.Register"
+            android:parentActivityName=".LoginAndRegister.Login_Register_Sel"
+            android:theme="@style/test" />
+        <activity
+            android:name=".student.Notification2"
+            android:parentActivityName=".student.NotificationActivity"
+            android:theme="@style/test" />
+        <activity
+            android:name=".student.NotificationActivity"
+            android:parentActivityName=".student.HomeActivity"
+            android:theme="@style/test" />
+        <activity
+            android:name=".student.HomeActivity"
+            android:label="PRIME"
+            android:theme="@style/test" />
+        <activity
+            android:name=".student.Aboutus"
+            android:label="About NITH"
+            android:parentActivityName=".student.HomeActivity" />
+        <activity
+            android:name=".student.Assignments"
+            android:label="Results"
+            android:parentActivityName=".student.HomeActivity" />
+        <activity
+            android:name=".student.Display"
+            android:parentActivityName=".student.Assignments" />
+        <activity
+            android:name=".student.Placement_portal"
+            android:label="Placement Portal"
+            android:parentActivityName=".student.HomeActivity" />
+        <activity
+            android:name=".student.placement_details"
+            android:label="Placement Details"
+            android:parentActivityName=".student.Placement_portal" />
+        <activity
+            android:parentActivityName=".student.HomeActivity" android:name=".student.undertaking" />
+        <activity
+            android:parentActivityName=".student.HomeActivity" android:name=".student.Download_undertaking" />
+        <activity
+            android:name=".CotactActivity"
+            android:label="Contact Us"
+            android:parentActivityName=".student.HomeActivity" />
+        <activity
+            android:label="Developer"
+            android:parentActivityName=".student.HomeActivity" android:name=".student.Developer"></activity>
+    </application>
+
+</manifest>

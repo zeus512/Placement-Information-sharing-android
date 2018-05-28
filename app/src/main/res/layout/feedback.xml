@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+
+        tools:context="ws.wolfsoft.classtime.Display_teacher">
+        <com.wang.avi.AVLoadingIndicatorView
+            android:id="@+id/avi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="invisible"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            style="@style/AVLoadingIndicatorView"
+            app:indicatorColor="@color/colorPrimary"
+            app:indicatorName="BallBeatIndicator"
+
+            />
+        <LinearLayout
+            android:id="@+id/feedbacklay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="30dp"/>
+        <LinearLayout
+            android:paddingLeft="15dp"
+            android:layout_width="match_parent"
+            android:weightSum="3"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+
+                android:text="Name:"/>
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:id="@+id/student_create_student_name"
+                android:hint="enter name"/>
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="30dp"/>
+        <LinearLayout
+            android:paddingLeft="15dp"
+            android:layout_width="match_parent"
+            android:weightSum="3"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+
+                android:text="Email:"/>
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:id="@+id/emailfeedback"
+                android:hint="enter Email"/>
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="30dp"/>
+        <LinearLayout
+            android:paddingLeft="15dp"
+            android:layout_width="match_parent"
+            android:weightSum="3"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+
+                android:text="RollNo:"/>
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:id="@+id/student_create_student_rollno"
+                android:hint="enter name"/>
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="30dp"/>
+
+        <LinearLayout
+            android:paddingLeft="15dp"
+            android:layout_width="match_parent"
+            android:weightSum="3"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+
+                android:text="Query:"/>
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:inputType="textMultiLine"
+                android:id="@+id/student_create_student_reason"
+                android:hint="Enter Message "/><requestFocus/>
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="50dp"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:weightSum="3"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+
+            android:layout_height="wrap_content">
+
+            <Button
+                android:text="SEND"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/send_request"
+                android:textColor="#fff"
+                android:textStyle="bold"
+                android:background="@color/colorPrimaryDark"
+
+
+                />
+
+
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="150dp"/>
+
+
+
+    </LinearLayout>
+    </RelativeLayout>
+</ScrollView>

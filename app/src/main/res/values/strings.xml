@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">PRIME</string>
+
+    <string name="APPKEY">SW5mb3F1ZXN0MjAxN0FwcEtleQ==</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="aboutus">National Institute of Technology Hamirpur is one of the twenty NITs of the country, established in 1986 as Regional Engineering College, as a joint and cooperative enterprise of the Govt. of India and Govt. of Himachal Pradesh. The goals of the institute as embodied in the logo are truly remarkable in their scope of vision. The college provide Undergraduate, Postgraduate and Doctorate Education in Engineering, Sciences &amp; Humanities; fostering the spirit of national integration among the students, a close interaction with industry and a strong emphasis on research, both basic and applied. It has been given the status of Deemed University.</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home_teacher">HomeActivityTeacher</string>
+    <string name="placement">Training and Placement Cell\n\n
+
+The Training and Placement Cell, NIT Hamirpur is committed to provide complete assistance to final year students in their efforts to find employment. This commitment is demonstrated by the appointment of a full-time professor in-charge. The benefits of this assistance are reflected in the preparation of students who have been able to secure esteemed positions in recent years. The Training and Placement service operates year round to facilitate contacts between companies and graduates. Staff is available to respond to all kinds of queries and concerns of the students. The aim is to ensure that students have the necessary information and skills for an effective job search.
+
+\n
+Placement Facilities\n
+
+   \t\t Separate cell has been established with a full time staff In-charge for placement in order to guide the students while approaching companies. The cell conducts surveys on expectations of the recruiters from the fresh graduates. Feedback is obtained from the employers of past batches to analyze the satisfactory results. A strong network is maintained with the alumni of the Institute. In order to help the students with their soft skills development, training sessions are organized.\n
+
+Summer Training\n\n
+
+After completion of third year, every student has to undertake summer internship or training in industries of repute for duration of 6-8 weeks. Students work on projects given to them either by the sponsoring organization or selected by the students themselves. The project report/thesis is an intensive learning exercise for students to apply particular theoretical concepts into practical situations as experienced in an industrial milieu. Keeping in mind the existing and expected job opportunities, we plan to provide potential placement services to our participants. For effective placements, we establish close relations with the firms, which are in the process of providing jobs to our students. The existing placement cell keeps an intensive interface with leading corporate consultants.
+\n
+\t\t Students of NIT Hamirpur gain valuable work experience through the internships, especially the students who aim for specific career field. Since relevant work experience is one of the key qualifications that companies look for while selecting candidates for a job or internship, completing several internships during college increases the chances of being selected for a job after graduation. NITH believes that though students acquire knowledge through the courses and curriculum, internships are one of the best ways to develop and enhance the necessary practical skills.
+
+\n
+PRE-PLACEMENT TALK (PPT)\n
+
+\t\tPPT provides an opportunity to the recruiting company to interact with the students. The company delegates give the presentation regarding the history, growth potential, future opportunities, and jobs available. PPT also provides a company with opportunity to recruit students of NITH for summer training assignments.
+
+\n
+Final Placement\n
+
+Campus recruitment drives are organized by inviting companies from the private, public and government sectors to place Institute\'s students at entry level positions. Placement assistance is provided on the basis of industry, sector or the particular vertical as well as the functional division.</string>
+</resources>

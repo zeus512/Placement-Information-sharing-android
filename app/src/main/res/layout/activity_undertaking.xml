@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_marginRight="10dp"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context="org.darkbyte.nithtpo.student.undertaking">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center_horizontal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="left"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Name *"
+                    android:textColor="#000000"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_marginBottom="10dp"/>
+
+                <EditText
+                    android:id="@+id/Name_field"
+                    android:layout_width="350dp"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="left"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Roll Number *"
+                    android:textColor="#000000"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_marginBottom="10dp"/>
+
+                <EditText
+                    android:id="@+id/Roll_Number"
+                    android:layout_width="350dp"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="left"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Branch *"
+                    android:textSize="15dp"
+                    android:textColor="#000000"
+                    android:textStyle="bold"
+                    android:layout_marginBottom="10dp"/>
+
+                <EditText
+                    android:id="@+id/Branch_field"
+                    android:layout_width="350dp"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="left"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Father Name*"
+                    android:textColor="#000000"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_marginBottom="10dp"/>
+
+                <EditText
+                    android:id="@+id/Fathername_field"
+                    android:layout_width="350dp"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="left"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="1. Till the time I don’t get placed, I agree to share my particulars with any company which is going to offer placement to NIT Hamirpur (HP) through campus or pool drive."
+                    android:textColor="#000000"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_marginBottom="10dp"/>
+
+                <RadioGroup
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:id="@+id/radio1">
+                    <RadioButton
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Agree"
+                        android:textStyle="bold"
+                        android:id="@+id/radio1_r1"
+                        android:layout_marginLeft="5dp"/>
+
+                    <RadioButton
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Disagree"
+                        android:textStyle="bold"
+                        android:id="@+id/radio1_r2"
+                        android:layout_marginLeft="60dp"/>
+                </RadioGroup>
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="left"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="2. I shall not deny to appear for the interview for a specific company, if my particulars would have been shared with the company."
+                    android:textColor="#000000"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_marginBottom="10dp"/>
+
+                <RadioGroup
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:id="@+id/radio2">
+                    <RadioButton
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="agree"
+                        android:textStyle="bold"
+                        android:id="@+id/radio2_r1"
+                        android:layout_marginLeft="5dp"/>
+
+                    <RadioButton
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Disagree"
+                        android:textStyle="bold"
+                        android:id="@+id/radio2_r2"
+                        android:layout_marginLeft="60dp"/>
+                </RadioGroup>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="left"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:weightSum="1">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="3. I shall be eligible for the disciplinary action if:"
+                    android:textColor="#000000"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_marginBottom="10dp"/>
+
+
+
+
+
+                <RadioButton
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="(a) I shall be caught while copying."
+                    android:textStyle="bold"
+                    android:id="@+id/radio3_r1"
+                    android:layout_marginLeft="5dp"
+                    android:textSize="15dp"
+                    android:layout_marginBottom="10dp"/>
+
+
+                <RadioButton
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="(b) I shall reach the venue for recruitment drive after the scheduled time."
+                    android:textStyle="bold"
+                    android:id="@+id/radio3_r2"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="35dp"
+                    android:textSize="15dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_weight="0.23" />
+
+
+                <RadioButton
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="(c) I shall not attend pre-placement talk and recruitment drive in a recognized dress code (complete formals for interviews and defined informal code for pre-placement)."
+                    android:textStyle="bold"
+                    android:id="@+id/radio3_r3"
+                    android:layout_marginLeft="5dp"
+                    android:textSize="15dp"
+                    android:layout_marginBottom="10dp"/>
+
+
+                <RadioButton
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="(d) I fill ‘undertaking form’ for joint/pool campus placement drive (out of NIT Hamirpur) not myself."
+                    android:textStyle="bold"
+                    android:id="@+id/radio3_r4"
+                    android:layout_marginLeft="5dp"
+                    android:textSize="15dp"
+                    android:layout_marginBottom="10dp"/>
+
+
+                <RadioButton
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="(e) I shall not obey placement policy."
+                    android:textStyle="bold"
+                    android:id="@+id/radio3_r5"
+                    android:layout_marginLeft="5dp"
+                    android:textSize="15dp"
+                    android:layout_marginBottom="10dp"/>
+
+                <RadioButton
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="(f) After the shortlisting of my name, if I quit the decision to appear for the recruitment drive in campus or pool drive."
+                    android:textStyle="bold"
+
+                    android:id="@+id/radio3_r6"
+                    android:layout_marginLeft="5dp"
+                    android:textSize="15dp"
+                    android:layout_marginBottom="10dp"/>
+
+
+
+
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="left"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Failing in any of the above conditions will lead to cause disciplinary action against me as mentioned below:-"
+                        android:textColor="#000000"
+                        android:textStyle="bold"
+                        android:textSize="15dp"
+                        android:layout_marginBottom="10dp"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="left"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="(a)Students may be debarred from the in-campus placement facility."
+                        android:textColor="#000000"
+
+                        android:textSize="15dp"
+                        android:layout_marginBottom="10dp"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="left"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="(b)Students may be debarred to appear for placement drive in next three companies of his/her discipline."
+                        android:textColor="#000000"
+
+                        android:textSize="15dp"
+                        android:layout_marginBottom="10dp"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="left"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="(c)Under special medical circumstances, a student may be exempted from punishment by producing valid medical certificate from Govt. District Hospital."
+                        android:textColor="#000000"
+
+                        android:textSize="15dp"
+                        android:layout_marginBottom="10dp"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="left"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp">
+
+
+                    <RadioButton
+                        android:id="@+id/radioButton3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="I accept Terms and Conditions"
+                        android:layout_marginBottom="30dp"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="left"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp">
+                    <Button
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Submit"
+                        android:layout_marginLeft="100dp" />
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</LinearLayout>

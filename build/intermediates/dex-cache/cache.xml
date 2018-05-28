@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/circleimageview-1.1.2.aar/63751523d877d02baa913cd294c3dea2/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bef8a6e9c48d173c5507cf734637b0726dc3afb1">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/c178d5cb9ff8182a6da29ddd659cdabb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/31df54cd3dd4aca6e87b81b5c83cc11c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/f2b37f6c07e2cf01a336daae9dfea420/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/0593a133929d2171e742b9172793f72535d79001/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d2b97c728005e4d98f844b286e61adda209cab11">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ccf60a7e6ab95f06e5948d24d7fa9833db4ca190/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/3517e6f786cf44d440d0643dd09d8ac90eafd4b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/pre-dexed/release/classes_73c8614bd73cf0d3613d3278cab7a5273cc847fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/1998278645a881987eb8d932c93e2c8a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/OneSignal-3.7.1.aar/26246dea13eef20f9eeb3f01e10fd909/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6cf8f13d470972c00ecb19ebacb8780a2d151111">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Desktop/food/NithTPO/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08507a8b8ecd7d555b3b46b8db48d5cebae236e9">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_217407a037e8711233e5d3495f67e31e3887284c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-location-10.2.4.aar/46ecd1fe507c2d2203fbc44cfdf704b2/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7e0f082141b7aa90aab5d3a47ab09b0edc958f6b">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/pre-dexed/release/picasso-2.3.2_ec31bec87f0bd5f2fa720338df2924fea4a48eb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/library-2.1.3.aar/9cf42b604bfbfd1bd014adab7cb5b428/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e699699fae0092703de1d02b217f43803d0f7e0a">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8119ab047ab996e3c44710f79af7f528/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/036be2336649ce879ca7ba7accc5bc00/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/pre-dexed/release/library-2.4.0_966625304e7208badec13abab7a99ab1be33bd6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.4.aar/d85b87226c0caaba12858ae7ae3cd72a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5cba8868595f6aaff54cf7d1798591108cf5611c">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Desktop/food/NithTPO/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d5a7bc941e034e1d4e43c5b3092a3aba6dd0de7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/27c944c41793839cafec774fde4599df/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/dc95d29a0078dd4b9bf4a20811e969c797ef17f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa1a91ac1cb0c58eddf13c8c2abb7bbcf43b0f08">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/pre-dexed/debug/classes_4e98c7ffa59f01bc4fd734926d95df23c92dadd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/android-networking-0.3.0.aar/d9ae22bac06aaf4319a5b0268c1ca213/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2181055be8a630f727d41d4dc15adfad283474bb">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5b099cf814ccbfcd424d72a2e17fa857/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/81fcb05f59a876e1ab893460c3c35bc8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/6b16463a6a94ffb740909bd9e235caaf/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/28df498d160a284afefd1a0eac60631e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/622349a545b83d62f3e40fe38b64e9e4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/0593a133929d2171e742b9172793f72535d79001/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d2b97c728005e4d98f844b286e61adda209cab11">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/pre-dexed/release/classes_ccf60a7e6ab95f06e5948d24d7fa9833db4ca190.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/d253cd87eedcc9066502c8773a89a6e9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/4440a9c8ff9e2becb465b62f074ccf68/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/library-1.1.5.aar/e6bc85443153cd1541be2c45a3934a35/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.4.aar/1ba9ce0517a3e8a586547dc900bc832e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="29d9916bd9ad8406a53edbafbbce5e18943aa882">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/631fe97922066b3d01fac5d8ead891bb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/ff228ae36899d87c3ee969c18cc7d957/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/root/Desktop/food/NithTPO/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+
+</items>
