@@ -5,6 +5,6 @@ package org.darkbyte.nithtpo;
  */
 
 public class Constant  {
-
-    public static String ip="http://23.92.25.213/nithtpo/";
+//TODO
+    public static String ip="use your backend url here";
 }
